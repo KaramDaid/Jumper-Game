@@ -8,10 +8,9 @@
 #
 #
 # List of additional features
-# 1. Display the score on screen. The score should be constantly updated as the game progresses. The final score is displayed on the game-over screen.
-# 2. Player names. Allow the player to enter their name using the keyboard, and the name is displayed throughout the game as well as the game-over screen showing the final scores.
-# 3. Dynamic on-screen notification messages during the game such as "Amazing!", "Wow!", "Good job!". The notification should change over time.
-# ... (add more if necessary)
+# 1. Score is displayed on screen and is constantly updated as the player progresses. When the player wins or loses the score is also displayed on the gameover screen.
+# 2. Player is able to input their name using a keyboard, name is shown on screen throughout the game and on the gameover screen/
+# 3. Dynamic on-screen notifications are shown while progressing throughout the game.
 #
 # Additional information:
 # - You can a input name of exactly 5 chars, but since letter are printing using 3x5 pixels some
